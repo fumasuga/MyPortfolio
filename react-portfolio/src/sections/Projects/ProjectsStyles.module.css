@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    h3 {
+        margin-top: 32px;
+    }
+    
+    p {
+        max-width: 500px;
+        text-align: center;
+        margin-top: 16px;
+        /* background-color ADD */
+    }
+}
+
+.projectContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+  }
